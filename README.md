@@ -17,3 +17,9 @@ Este repositório representa meu aprendizado e envolvimento inicial com o Flutte
 A instalação do Android Studio é bastante manual.
 Devemos seguir as instruções do próprio site que possui um passo a passo para a instação.
 DEVEMOS INSTALAR OS PLUGINS DO DART E DO FLUTTER
+
+5. Instalar o Flutter
+Uma observação é que o Flutter já instala o Dart.
+> sudo snap install flutter --classic
+> flutter doctor
+Deve-se atender a todas as necessidades do Flutter Doctor
